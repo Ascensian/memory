@@ -1,0 +1,8 @@
+#memo_box {
+    background-color: green;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 45%;
+    align-items: center;
+}
